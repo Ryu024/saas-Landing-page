@@ -2,7 +2,7 @@
 
 ### [LIVE DEMO](https://saas-langing-page.netlify.app/)
 
-![Preview]("./public/image.png")
+![Preview](https://github.com/Ryu024/saas-Landing-page/blob/master/public/image.png)
 
 # Description
 <div>
